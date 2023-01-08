@@ -13,7 +13,7 @@ Communications are critical for humanity. It is through communication that we sh
 
 This omnipresence of communications in our houses might give the impression that we can always take them for granted. The balance required for accessing communications is delicated and will be disrupted by lack of grid energy or by natural phenomenons as earthquakes, fires and similar. Can be disrupted to the communities who value privacy inside their communications, can be restricted to those running away from wars or protesting. Or more simply, can become out of reach for those without the economical means or too distant for commercial infrastruture to build it there.
 
-For all these use case scenarios and others we are yet to observe: communities around the planet need equipment and know-how to communicate between themselves and to share knowledge with other communities. We are here to help achieve that.
+For all these use case scenarios and others we are yet to observe: communities around the planet need equipment or know-how to communicate between themselves and to share knowledge with other communities. We are here to help achieve that.
 
 
 
@@ -27,7 +27,7 @@ For all these use case scenarios and others we are yet to observe: communities a
 
 The preference is to reuse as many existing building block as possible. From decade-old protocols to popular inexpensive hardware techniques. These take priority over elitist/hipped hardware or software. Make robust product choices to be used today with equipment from the past and the future.
 
-Reusing of current hardware becomes easier for others to replicate the devices by themselves, keeping the instructions and construction techniques as simple as possible for others to assemble. Reuse permits partnerships, instead of creating a new wheel just reuse an existing whell and ask their developers to build it together. Through volunteer cooperation we build something to truly be proud about. Volunteers, partners and contributers are credited in the history of this platform to be remembered by next generations.
+Reusing of current hardware becomes easier for others to replicate the devices by themselves, keeping the instructions and construction techniques as simple as possible for others to assemble. Reuse permits partnerships, instead of creating a new wheel just reuse an existing wheel and ask their developers to build it together with you. Through volunteer cooperation we build something to truly be proud about. Volunteers, partners and contributers are credited in the history of this platform to be remembered by next generations.
 
 Repairing is critical. First because it avoids costs of acquiring new hardware or building new untested software from scratch, second because it reduces ecologial waste and third: new hardware might not even be available after a few decades in the future. Hardware and software are increasingly difficult for technicians to repair by themselves. This is aggravated throught "planned obsolescency" and our deliberate choice of low-cost equipment that is affortable to most people. For these reasons we aim to keep each product well-documented, with the necessary files preserved on long-term stable storage and by design so that they can be repaired.
 
@@ -40,12 +40,12 @@ And for each principle: Keep it simple, stupid!
 
 ### Community
 
-We are volunteers. We dedicate our time, our talent and our effort because we want to create something worthwhile for humanity. If you are reading this text today and curious about the community, perhaps deep inside you have this feeling too. Volunteers come in all shapes, sizes, ages and forms. Respect others. Focus more on what brings us together than what keeps us apart. When looking around, see where you can help and write a message to that group. Even if you feel without technical skills, it is already so important that you help talking and keep the group chats active. Do what you can, this platform is now yours too.
+We are volunteers. We dedicate our time, our talent and our effort because we want to create something worthwhile for humanity. If you are reading this text today and curious about the community, then perhaps deep inside you have this feeling too. Volunteers come in all shapes, sizes, ages and forms. Respect others. Focus more on what brings us together than what keeps us apart. When looking around, see where you can help and write a message to that group. Even if you feel without technical skills, it is already so important that you help talking and keep the group chats active. Do what you can, this platform is now yours too.
 
 
 
 ### Human rights and ecology
 
-There is a choice. When building products we make choices and it our choice to align them as much as possible with fundamental human rights and ecological practices. We make a choice whenever designing products to be repairable and use renewable energies. We make a choice when designing protocols and software that protects user privacy and decentralization. We make a personal choice with our own wallet for products that share a compatible view of the world. Through a balance of usability, security, cost and privacy we are transparent about the platform design decisions so that everyone can participate, understand and help us understand their point of view. This is our commitment.
+There is a choice. When building products we make choices and it our choice to align them as much as possible with fundamental human rights and ecological practices. We make a choice whenever designing products to be repairable and use renewable energies. We make a choice when designing protocols and software that protects user privacy and decentralization. We make a personal choice with our own wallet for products that share a compatible view of the world. Through a balance of usability, security, cost and privacy we are transparent about the platform design decisions so that everyone can participate, understand and help us understand their point of view. This is our personal commitment to you.
 
 
